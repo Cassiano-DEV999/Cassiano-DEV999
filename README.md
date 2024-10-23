@@ -33,6 +33,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cassiano-DEV999/Cassiano-DEV999/output/snake.svg" alt="Snake animation" />
-
 ###
