@@ -1,5 +1,5 @@
 
-<<p align="left">Bem vindos! Me chamo Cassiano e sou um estudante de Ciências da Computação, por aqui irei mostrar meu conhecimento 🤓☝️</p>
+<p align="center">Bem vindos! Me chamo Cassiano e sou um estudante de Ciências da Computação, por aqui irei mostrar meu conhecimento 🤓☝️</p>
 
 ###
 
@@ -27,9 +27,15 @@
 ###
 
 <div align="center">
-  <img src="" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://api.whatsapp.com/send?phone=5515991302323&text=Ol%C3%A1%21" width="52" height="40" alt="whatsapp logo"  />
+  <a href = "https://api.whatsapp.com/send?phone=5515991302323&text=Ol%C3%A1%21">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    </a>
+  <a hred = "">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    </a>
 </div>
+
+###
 
 ###
 
