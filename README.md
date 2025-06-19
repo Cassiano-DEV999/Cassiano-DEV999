@@ -25,7 +25,7 @@
 ![TS](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=purple&labelColor=0D1117)&nbsp; 
  
 ### Tools:
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20Studio-0D1117?style=for-the-badge&logo=intellijidea&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Linu](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
