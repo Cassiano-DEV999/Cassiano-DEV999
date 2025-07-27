@@ -1,57 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f16e5&height=120&section=header"/>
+# 💫 About Me:
+🛠️ I’m currently working on:<br>Um sistema de helpdesk chamado MindDesk, focado em facilitar a gestão de chamados em empresas, com autenticação JWT, painel administrativo, dashboards e controle por empresas e cargos.<br><br>🤝 I’m looking to collaborate on:<br>Projetos Java (Spring Boot), front-ends em React ou qualquer aplicação web full-stack com foco em aprendizado e boas práticas.<br><br>💛 I’m looking for help with:<br>Aprimorar testes automatizados, boas práticas com Docker em produção e segurança avançada com Spring Security.<br><br>⏳ I’m currently learning:<br>Spring Boot (profundamente), Docker, e UI/UX com Tailwind + Shadcn. Também curtindo design de interfaces corporativas.<br><br>💭 Ask me about:<br>Integração back-end + front-end, JWT na prática, controle de usuários multiempresa e como começar com Java/Spring do zero.<br><br>⚡ Fun fact:<br>Comecei no suporte de TI e estou me transformando em dev full-stack com sangue nos olhos e café na veia ☕🔥<br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f16e5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cassiano+Augusto+Proença;I'm+a+computer+science+student+at+UNICID;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Cassiano Melo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cassianomeloprofissional@gmail.com) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cassiano-DEV999&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Cassiano-DEV999 github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiano-DEV999&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cassiano-DEV999&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Cassiano-DEV999&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiano-DEV999&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cassiano-DEV999&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cassiano-DEV999&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cassiano-DEV999&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">  
-<a href="https://www.instagram.com/cassiano_augusto_/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![JAVA](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.tsx](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TS](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Linu](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Spring](https://img.shields.io/badge/-Springboot-0D1117?style=for-the-badge&logo=springboot&labelColor=#6DB33F)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JAVA](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cassiano-DEV999&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cassiano-DEV999}/count.svg" /></p> 
-<br></div>
+---
+[![](https://visitcount.itsvg.in/api?id=Cassiano-DEV999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f16e5&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
