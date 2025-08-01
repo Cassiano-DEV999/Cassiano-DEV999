@@ -1,27 +1,83 @@
-# 💫 About Me:
-🛠️ I’m currently working on:<br>Um sistema de helpdesk chamado MindDesk, focado em facilitar a gestão de chamados em empresas, com autenticação JWT, painel administrativo, dashboards e controle por empresas e cargos.<br><br>🤝 I’m looking to collaborate on:<br>Projetos Java (Spring Boot), front-ends em React ou qualquer aplicação web full-stack com foco em aprendizado e boas práticas.<br><br>💛 I’m looking for help with:<br>Aprimorar testes automatizados, boas práticas com Docker em produção e segurança avançada com Spring Security.<br><br>⏳ I’m currently learning:<br>Spring Boot (profundamente), Docker, e UI/UX com Tailwind + Shadcn. Também curtindo design de interfaces corporativas.<br><br>💭 Ask me about:<br>Integração back-end + front-end, JWT na prática, controle de usuários multiempresa e como começar com Java/Spring do zero.<br><br>⚡ Fun fact:<br>Comecei no suporte de TI e estou me transformando em dev full-stack com sangue nos olhos e café na veia ☕🔥<br><br>
+<h1 align="center">👋 Olá, eu sou o Cassiano!</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Cassiano Melo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cassianomeloprofissional@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cassiano-DEV999&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cassiano-DEV999&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiano-DEV999&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cassiano-DEV999&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cassiano-DEV999&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+Estudante de Ciência da Computação, apaixonado por desenvolvimento back-end com Java & Spring Boot, buscando evoluir todos os dias e transformar café em código ☕🚀
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cassiano-DEV999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me:
+
+🛠 **I'm currently working on:**  
+Um sistema de helpdesk chamado **MindDesk**, focado em facilitar a gestão de chamados em empresas, com autenticação JWT, painel administrativo, dashboards e controle por empresas e cargos.
+
+🤝 **I'm looking to collaborate on:**  
+Projetos Java (Spring Boot), front-ends em React ou qualquer aplicação web full-stack com foco em aprendizado e boas práticas.
+
+🆘 **I'm looking for help with:**  
+Aprimorar testes automatizados, boas práticas com Docker em produção e segurança avançada com Spring Security.
+
+⏳ **I'm currently learning:**  
+Spring Boot (profundamente), Docker, e UI/UX com Tailwind + Shadcn. Também curtindo design de interfaces corporativas.
+
+💬 **Ask me about:**  
+Integração back-end + front-end, JWT na prática, controle de usuários multiempresa e como começar com Java/Spring do zero.
+
+🎯 **Fun fact:**  
+Comecei no suporte de TI e estou me transformando em dev full-stack com sangue nos olhos e café na veia 🌑🔥
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassiano%20Melo-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/CassianoMelo)
+[![Email](https://img.shields.io/badge/Email-cassianomelodev@gmail.com-red?style=flat-square&logo=gmail)](mailto:cassianomelodev@gmail.com)
+
+---
+
+## 🧰 Tech Stack:
+
+<div align="left">
+
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn-ui-000000?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-202020?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-2F4F4F?style=flat-square)
+
+</div>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cassiano-DEV999&show_icons=true&theme=github_dark&hide=prs&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiano-DEV999&layout=compact&theme=github_dark&hide=scss" height="180em"/>
+</p>
+
+---
+
+## ✨ Conquistas recentes
+
+- ✅ Sistema Helpdesk em produção na Prefeitura
+- ✅ Estrutura com Docker, JWT, dashboards, multiempresa
+- ✅ API Rocketseat finalizada com autenticação completa
+- ✅ Front corporativo moderno com Tailwind + Shadcn
+
+---
+
+💬 *Se você chegou até aqui, valeu demais! Bora codar junto e fazer deploy dos sonhos na vida real!* 🚀  
