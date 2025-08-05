@@ -31,7 +31,7 @@ Comecei no suporte de TI e estou me transformando em dev full-stack com sangue n
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassiano%20Melo-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/CassianoMelo)
-[![Email](https://img.shields.io/badge/Email-cassianomelodev@gmail.com-red?style=flat-square&logo=gmail)](mailto:cassianomelodev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cassianomelodev@gmail.com-red?style=flat-square&logo=gmail)](mailto:cassianomeloprofissional@gmail.com)
 
 ---
 
