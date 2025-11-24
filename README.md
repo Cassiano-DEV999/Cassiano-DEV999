@@ -27,6 +27,6 @@ Estou sempre aberto para discutir ideias, colaborar em projetos ou explorar nova
 ## ⚡ *GitHub Stats*
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizObara&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizObara&layout=compact&theme=gotham"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cassiano-DEV999&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiano-DEV999&layout=compact&theme=gotham"/>
 </div>
